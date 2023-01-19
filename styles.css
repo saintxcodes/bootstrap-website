@@ -71,13 +71,13 @@ body::before{
 }
 
 @media  (max-width:1024px) {
-    .instructors{
+/*     .instructors{
         display: flex;
 
         grid-template-columns: repeat( auto-fit, minnax(14rem, 1fr));
         gap: 20px;
     }
-
+ */
     .card {
         width: fit-content;
     }
